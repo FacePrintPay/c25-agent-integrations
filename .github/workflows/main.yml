@@ -1,4 +1,4 @@
-git clone https://github.com/FacePrintPay/FacePrintPay.git
+git clone https://github.com/Constellation25/Constellation25.git
 # Unzip contents into the repo folder
 git add .
 git commit -m "Deploy AiMetaverse OSS registry and test workflows"
